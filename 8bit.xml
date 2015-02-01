@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>8-bit-daytime</name>
+        <filename>/usr/share/backgrounds/8bit/8bit.xml</filename>
+        <options>stretched</options>
+    </wallpaper>
+</wallpapers>

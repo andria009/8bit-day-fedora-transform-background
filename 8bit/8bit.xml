@@ -1,0 +1,99 @@
+<background>
+  <starttime>
+    <year>2015</year>
+    <month>01</month>
+    <day>01</day>
+    <hour>00</hour>
+    <minute>02</minute>
+    <second>00</second>
+  </starttime>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/02-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/02-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/05-8bit.png</to>
+</transition>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/05-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/05-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/08-8bit.png</to>
+</transition>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/08-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/08-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/11-8bit.png</to>
+</transition>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/11-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/11-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/14-8bit.png</to>
+</transition>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/14-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/14-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/17-8bit.png</to>
+</transition>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/17-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/17-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/20-8bit.png</to>
+</transition>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/20-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/20-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/23-8bit.png</to>
+</transition>
+
+<static>
+<duration>9000.0</duration>
+<file>/usr/share/backgrounds/8bit/23-8bit.png</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/8bit/23-8bit.png</from>
+<to>/usr/share/backgrounds/8bit/02-8bit.png</to>
+</transition>
+
+</background>
