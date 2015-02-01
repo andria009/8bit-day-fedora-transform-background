@@ -8,92 +8,108 @@
     <second>00</second>
   </starttime>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/02-8bit.png</file>
-</static>
+  <!-- static from 2 am to 4.30 am -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/02-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/02-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/05-8bit.png</to>
-</transition>
+  <!-- transition from 4.30 am to 5 am -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/02-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/05-8bit.png</to>
+  </transition>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/05-8bit.png</file>
-</static>
+  <!-- static from 5 am to 7.30 am -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/05-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/05-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/08-8bit.png</to>
-</transition>
+  <!-- transition from 7.30 am to 8 am -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/05-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/08-8bit.png</to>
+  </transition>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/08-8bit.png</file>
-</static>
+  <!-- static from 8 am to 10.30 am -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/08-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/08-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/11-8bit.png</to>
-</transition>
+  <!-- transition from 10.30 am to 11 am -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/08-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/11-8bit.png</to>
+  </transition>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/11-8bit.png</file>
-</static>
+  <!-- static from 11 am to 1.30 pm -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/11-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/11-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/14-8bit.png</to>
-</transition>
+  <!-- transition from 1.30 pm to 2 pm -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/11-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/14-8bit.png</to>
+  </transition>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/14-8bit.png</file>
-</static>
+  <!-- static from 2 pm to 4.30 pm -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/14-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/14-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/17-8bit.png</to>
-</transition>
+  <!-- transition from 4.30 pm to 5 pm -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/14-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/17-8bit.png</to>
+  </transition>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/17-8bit.png</file>
-</static>
+  <!-- static from 5 pm to 7.30 pm -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/17-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/17-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/20-8bit.png</to>
-</transition>
+  <!-- transition from 7.30 pm to 8 pm -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/17-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/20-8bit.png</to>
+  </transition>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/20-8bit.png</file>
-</static>
+  <!-- static from 8 pm to 10.30 pm -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/20-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/20-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/23-8bit.png</to>
-</transition>
+  <!-- transition from 10.30 pm to 11 pm -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/20-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/23-8bit.png</to>
+  </transition>
 
-<static>
-<duration>9000.0</duration>
-<file>/usr/share/backgrounds/8bit/23-8bit.png</file>
-</static>
+  <!-- static from 11 pm to 1.30 am -->
+  <static>
+    <duration>9000.0</duration>
+    <file>/usr/share/backgrounds/8bit/23-8bit.png</file>
+  </static>
 
-<transition type="overlay">
-<duration>1800.0</duration>
-<from>/usr/share/backgrounds/8bit/23-8bit.png</from>
-<to>/usr/share/backgrounds/8bit/02-8bit.png</to>
-</transition>
+  <!-- transition from 1.30 am to 2 am -->
+  <transition type="overlay">
+    <duration>1800.0</duration>
+    <from>/usr/share/backgrounds/8bit/23-8bit.png</from>
+    <to>/usr/share/backgrounds/8bit/02-8bit.png</to>
+  </transition>
 
 </background>
